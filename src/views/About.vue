@@ -35,8 +35,8 @@
                         </profile>
                     </b-col>
                     <b-col md="3" offset-md="1" v-scroll-reveal="{ delay:150 }">
-                        <profile :profile-image="require('../assets/profiles/filbert.png')">
-                            <div class="name">Filbert Limawan</div>
+                        <profile :profile-image="require('../assets/profiles/fandi.png')">
+                            <div class="name">Cong Fandi</div>
                             <div class="position">Chief Operating Officer</div>
                         </profile>
                     </b-col>

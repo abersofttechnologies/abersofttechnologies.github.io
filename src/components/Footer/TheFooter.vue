@@ -13,9 +13,9 @@
                         </div>
                         <div class="col-md" v-scroll-reveal="{ delay:100 }">
                             <location-address title="Indonesia">
-                                Jl. K.L. Yos Sudarso<br>
-                                Kompleks Brayan Prima Blok E No. 15<br>
-                                Medan, Indonesia
+                                Kampung Yadika Regency<br>
+                                Blok H Nomer 4<br>
+                                Pasuruan, Indonesia
                             </location-address>
                         </div>
                     </div>
